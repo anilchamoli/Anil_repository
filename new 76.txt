@@ -1,0 +1,51 @@
+Delhi--- Portal MMS broadcast
+Anant--NTMS Issue
+NTP--Issue
+
+Romaing-Port open- RAD
+
+
+
+Purging
+Inci
+Change
+SLA mgt
+
+
+Roaming-Port--Done
+SS name in Incident
+WWW push
+
+chn-modem-gopi
+SAP--SMSC Sai
+GVM
+Magar mail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GR--Plan
+
+
+Delhi--->Direct TNR
+
+Kol-Guj--->Not direct connectivity---but through WAP--SGSN---IT (Intersite is always through PACO Network)
+
+Mum-->No Direct link (but termination at SMSC Switch--VASLAN-IT)
+
+
+
